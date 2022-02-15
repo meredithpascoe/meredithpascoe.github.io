@@ -1,7 +1,7 @@
 # Meredith Pascoe
 mpascoe1@emich.edu
 
-http://www.linkedin.com/meredithpascoe
+[http://www.linkedin.com/meredithpascoe]
 
 # Education
 **Eastern Michigan University**
